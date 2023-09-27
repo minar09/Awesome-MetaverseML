@@ -10,3 +10,7 @@ A curated list of awesome ML research papers, codes, projects, datasets, resourc
 - [Resources](#resources)
 - [Tools](#tools)
 - [Lists](#lists)
+
+
+## Lists
+- [awesome-metaverse](https://github.com/M3-org/awesome-metaverse)
