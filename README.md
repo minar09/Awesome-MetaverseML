@@ -7,7 +7,7 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 
 - [Papers](#papers)
 - [Projects](#projects)
-- [Tools](#tools)
+- [Apps](#apps)
 - [Lists](#lists)
     - [General Lists](#general-lists)
     - [NeRF](#nerf)
@@ -26,7 +26,7 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 
 
 
-## Tools
+## Apps
 - [Luma AI](https://lumalabs.ai/)
 - [Volinga AI](https://volinga.ai/)
 - [Pinscreen](https://www.pinscreen.com/)
