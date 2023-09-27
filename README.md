@@ -17,6 +17,7 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 
 ## Projects
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
+- [sdfstudio](https://autonomousvision.github.io/sdfstudio/)
 
 
 ## Resources
