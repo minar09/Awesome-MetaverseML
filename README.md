@@ -12,5 +12,18 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 - [Lists](#lists)
 
 
+## Papers
+
+
+## Projects
+- [nerfstudio](https://docs.nerf.studio/en/latest/)
+
+
+## Resources
+
+
+## Tools
+
+
 ## Lists
 - [awesome-metaverse](https://github.com/M3-org/awesome-metaverse)
