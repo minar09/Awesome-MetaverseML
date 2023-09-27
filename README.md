@@ -1,2 +1,12 @@
-# Awesome-MetaverseML
-A curated list of awesome ML research papers, projects, code, dataset, resources etc. for building Metaverse..
+# Awesome-MetaverseML [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
+A curated list of awesome ML research papers, codes, projects, datasets, resources, etc. for building Metaverse.
+
+
+## Table of Contents
+
+- [Papers](#papers)
+- [Projects](#projects)
+- [Resources](#resources)
+- [Tools](#tools)
+- [Lists](#lists)
