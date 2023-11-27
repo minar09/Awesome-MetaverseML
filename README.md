@@ -12,6 +12,7 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 - [Lists](#lists)
     - [General Lists](#general-lists)
     - [NeRF](#nerf)
+    - [Gaussian-Splatting](#gaussian-splatting)
     - [Avatar](#avatar)
     - [LLM](#llm)
 - [Other Resources](#other-resources)
@@ -49,6 +50,10 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 ### NeRF
 - [awesome-NeRF](https://github.com/MatrixBrain/awesome-NeRF)
 - [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+
+### Gaussian Splatting
+- [awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+- [awesome-gaussian-splatting](https://github.com/tomiwaAdey/awesome-gaussian-splatting)
 
 ### Avatar
 - [awesome-digital-human](https://github.com/weihaox/awesome-digital-human)
