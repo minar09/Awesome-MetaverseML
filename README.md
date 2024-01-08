@@ -26,6 +26,8 @@ A curated list of awesome Machine Learning research papers, codes, projects, dat
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [sdfstudio](https://autonomousvision.github.io/sdfstudio/)
 - [NerfAcc](https://github.com/KAIR-BAIR/nerfacc)
+- [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
+- [SuGaR](https://github.com/Anttwo/SuGaR)
 
 
 
